@@ -1,5 +1,5 @@
 [![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/unknownblueguy6/MineSweeper)
-https://github.com/eadragomir/minesweep.git
+
 # MineSweeper
 
 [![Run on Repl.it](https://repl.it/badge/github/eadragomir/minesweep)](https://repl.it/github/eadragomir/minesweep)
