@@ -1,6 +1,9 @@
 [![Run on Repl.it](https://repl.it/badge/github/unknownblueguy6/MineSweeper)](https://repl.it/github/unknownblueguy6/MineSweeper)
-
+https://github.com/eadragomir/minesweep.git
 # MineSweeper
+
+[![Run on Repl.it](https://repl.it/badge/github.com/eadragomir/minesweep)](https://repl.it/github.com/eadragomir/minesweep)
+
 
 Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
 
