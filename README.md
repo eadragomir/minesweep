@@ -2,7 +2,7 @@
 https://github.com/eadragomir/minesweep.git
 # MineSweeper
 
-[![Run on Repl.it](https://repl.it/badge/github.com/eadragomir/minesweep)](https://repl.it/github.com/eadragomir/minesweep)
+[![Run on Repl.it](https://repl.it/badge/github/eadragomir/minesweep)](https://repl.it/github/eadragomir/minesweep)
 
 
 Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
